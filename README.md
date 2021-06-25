@@ -1,3 +1,4 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FnosqI%2Fdetect-bitcoin-clipper)
 # Bitcoin Clipper Detection
 ## Wont let you download?
 `Disable your Anti-Virus!`
