@@ -10,3 +10,4 @@
 ## Who am i?
 `My name is: Rogelio M. Reese, i am a Cyber Security Enthusiast from San Diego > California :) Nice to meet you.`
 
+<img src="https://media.discordapp.net/attachments/857751420048900106/858317306761445376/axis.png"></img>
